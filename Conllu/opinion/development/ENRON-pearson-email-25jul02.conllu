@@ -1,0 +1,104 @@
+1	HOWDY	Howdy	ADV	RB	_	0	root	_	_
+2	,	,	PUNCT	,	_	1	punct	_	_
+
+1	WHAT	what	PRON	WP	PronType=Int	4	nsubj	_	_
+2	’S	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	BEEN	be	AUX	VBN	Tense=Past|VerbForm=Part	4	aux	_	_
+4	GOING	go	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	_
+5	ON	on	ADP	IN	_	6	case	_	_
+6	AMIGO	Amigo	PROPN	NNP	Number=Sing	4	obl	_	_
+7	.	.	PUNCT	.	_	4	punct	_	_
+
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	HAVE	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	NOT	not	PART	RB	_	4	advmod	_	_
+4	TALKED	talk	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
+5	TO	to	ADP	IN	_	6	case	_	_
+6	YOU	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	obl	_	_
+7	IN	in	ADP	IN	_	9	case	_	_
+8	A	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	_
+9	WHILE	while	NOUN	NN	Number=Sing	4	obl	_	_
+10	.	.	PUNCT	.	_	4	punct	_	_
+
+1	GIVE	give	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	_
+2	YOU	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	1	iobj	_	_
+3	THE	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
+4	SCOPE	scope	NOUN	NN	Number=Sing	1	obj	_	_
+5	OF	of	ADP	IN	_	6	case	_	_
+6	WHATS	WHATS	NOUN	NNS	Number=Plur	1	obl	_	_
+7	BEEN	be	AUX	VBN	Tense=Past|VerbForm=Part	8	aux	_	_
+8	GOING	go	VERB	VBG	Tense=Pres|VerbForm=Part	1	parataxis	_	_
+9	ON	on	ADP	RP	_	11	case	_	_
+10	WITH	with	ADP	IN	_	11	case	_	_
+11	ME.	ME.	PROPN	NNP	Number=Sing	8	obl	_	_
+12	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
+13	LEFT	leave	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	8	ccomp	_	_
+14	OILSTATES	OILSTATES	PROPN	NNP	Number=Sing	15	compound	_	_
+15	BACK	back	PROPN	NNP	Number=Sing	13	obj	_	_
+16	IN	in	ADP	IN	_	17	case	_	_
+17	MARCH	March	PROPN	NNP	Number=Sing	13	obl	_	_
+18	WITH	with	ADP	IN	_	20	case	_	_
+19	ANOTHER	another	PROPN	NNP	Number=Sing	20	compound	_	_
+20	COMPANY	Company	PROPN	NNP	Number=Sing	13	obl	_	_
+21	.	.	PUNCT	.	_	1	punct	_	_
+
+1	DID	do	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	aux	_	_
+2	A	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	_
+3	LOT	lot	NOUN	NN	Number=Sing	11	nsubj	_	_
+4	OF	of	ADP	IN	_	5	case	_	_
+5	TRAVELING	traveling	NOUN	NN	Number=Sing	3	nmod	_	_
+6	AND	and	CCONJ	CC	_	7	cc	_	_
+7	THEY	they	NOUN	NN	Number=Sing	5	conj	_	_
+8	(	(	PUNCT	-LRB-	_	9	punct	_	_
+9	OILSTATES	Oilstates	PROPN	NNP	Number=Sing	3	appos	_	_
+10	)	)	PUNCT	-RRB-	_	9	punct	_	_
+11	MADE	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+12	ME	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	obj	_	_
+13	A	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	_
+14	SWEET	sweet	PROPN	NNP	Number=Sing	15	compound	_	_
+15	OFFER	offer	PROPN	NNP	Number=Sing	12	appos	_	_
+16	TO	to	PART	TO	_	17	mark	_	_
+17	COME	come	VERB	VB	VerbForm=Inf	15	acl	_	_
+18	BACK	back	ADP	RP	_	17	obl	_	_
+19	.	.	PUNCT	.	_	11	punct	_	_
+
+1	SO	so	ADV	RB	_	4	advmod	_	_
+2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+3	AM	be	AUX	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	BACK	Back	PROPN	NNP	Number=Sing	0	root	_	_
+5	.	.	PUNCT	.	_	4	punct	_	_
+
+1	WHO	who	PRON	WP	PronType=Int	3	nsubj	_	_
+2	’S	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	GETTING	get	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	_
+4	MARRIED	marry	ADJ	JJ	Degree=Pos	3	xcomp	_	_
+5	?	?	PUNCT	.	_	3	punct	_	_
+
+1	SOUNDS	sound	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	LIKE	like	INTJ	UH	_	5	discourse	_	_
+3	THIS	this	PRON	DT	Number=Sing|PronType=Dem	5	nsubj	_	_
+4	IS	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	GOING	go	VERB	VBG	Tense=Pres|VerbForm=Part	1	ccomp	_	_
+6	TO	to	PART	TO	_	11	mark	_	_
+7	BE	be	AUX	VB	VerbForm=Inf	11	cop	_	_
+8	A	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	_
+9	GREAT	great	ADJ	JJ	Degree=Pos	11	amod	_	_
+10	BACHELOR	bachelor	NOUN	NN	Number=Sing	11	compound	_	_
+11	PARTY	party	NOUN	NN	Number=Sing	5	advcl	_	_
+12	.	.	PUNCT	.	_	1	punct	_	_
+
+1	GIVE	give	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	_
+2	ME	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	iobj	_	_
+3	A	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	_
+4	CALL	call	NOUN	NN	Number=Sing	5	compound	_	_
+5	SOMETIME	sometime	NOUN	NN	Number=Sing	6	compound	_	_
+6	CELL	cell	NOUN	NN	Number=Sing	1	obj	_	_
+7	:	:	PUNCT	:	_	6	punct	_	_
+8	713	713	NUM	CD	NumType=Card	9	nummod	_	_
+9	991	991	NUM	CD	NumType=Card	6	appos	_	_
+10	-	-	SYM	SYM	_	11	case	_	_
+11	5621	5621	NUM	CD	NumType=Card	9	nmod	_	_
+12	.	.	PUNCT	.	_	1	punct	_	_
+
+1	ROB	Rob	PROPN	NNP	Number=Sing	0	root	_	_
+
